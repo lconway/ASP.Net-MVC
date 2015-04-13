@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>LYNN-DEV</Machine>
+    <WindowsUser>Lynn</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>2168866EBC78703622BF039D06B2FA647252D4F223EC3C22BF8C5D41922A9FD2</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>299ceb54-fdcc-48df-b19a-f48716648c21_1.0.0.0_neutral__nma48kn4f82kc</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>299ceb54-fdcc-48df-b19a-f48716648c21_nma48kn4f82kc!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>299ceb54-fdcc-48df-b19a-f48716648c21</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Lynn</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter11\TextEditor\TextEditor\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-01-04T01:38:40.140</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter11\TextEditor\TextEditor\bin\Debug\TextEditor.exe">
+      <PackagePath>TextEditor.exe</PackagePath>
+      <Modified>2015-01-04T02:24:06.927</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter11\TextEditor\TextEditor\bin\Debug\TextEditor.pdb">
+      <PackagePath>TextEditor.pdb</PackagePath>
+      <Modified>2015-01-04T02:24:06.876</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter11\TextEditor\TextEditor\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T03:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter11\TextEditor\TextEditor\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T03:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter11\TextEditor\TextEditor\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T03:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter11\TextEditor\TextEditor\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T03:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter11\TextEditor\TextEditor\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+      <Modified>2015-01-04T01:38:21.230</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter11\TextEditor\TextEditor\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2015-01-04T01:37:43.734</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter11\TextEditor\TextEditor\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2015-01-04T01:57:08.449</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter11\TextEditor\TextEditor\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2015-01-04T02:24:04.361</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter11\TextEditor\TextEditor\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-01-04T01:38:39.991</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

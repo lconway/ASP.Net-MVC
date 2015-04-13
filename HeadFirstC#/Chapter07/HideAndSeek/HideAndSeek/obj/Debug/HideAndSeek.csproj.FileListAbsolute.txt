@@ -1,0 +1,8 @@
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter07\HideAndSeek\HideAndSeek\bin\Debug\HideAndSeek.exe.config
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter07\HideAndSeek\HideAndSeek\obj\Debug\HideAndSeek.Form1.resources
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter07\HideAndSeek\HideAndSeek\obj\Debug\HideAndSeek.Properties.Resources.resources
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter07\HideAndSeek\HideAndSeek\obj\Debug\HideAndSeek.csproj.GenerateResource.Cache
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter07\HideAndSeek\HideAndSeek\bin\Debug\HideAndSeek.exe
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter07\HideAndSeek\HideAndSeek\bin\Debug\HideAndSeek.pdb
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter07\HideAndSeek\HideAndSeek\obj\Debug\HideAndSeek.exe
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter07\HideAndSeek\HideAndSeek\obj\Debug\HideAndSeek.pdb

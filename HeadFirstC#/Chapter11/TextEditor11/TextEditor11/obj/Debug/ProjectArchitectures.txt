@@ -1,0 +1,1 @@
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter11\TextEditor11\TextEditor11\TextEditor11.csproj;neutral

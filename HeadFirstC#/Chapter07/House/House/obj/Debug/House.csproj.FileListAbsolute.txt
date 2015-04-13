@@ -1,0 +1,8 @@
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter07\House\House\bin\Debug\House.exe.config
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter07\House\House\obj\Debug\House.Form1.resources
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter07\House\House\obj\Debug\House.Properties.Resources.resources
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter07\House\House\obj\Debug\House.csproj.GenerateResource.Cache
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter07\House\House\bin\Debug\House.exe
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter07\House\House\bin\Debug\House.pdb
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter07\House\House\obj\Debug\House.exe
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter07\House\House\obj\Debug\House.pdb

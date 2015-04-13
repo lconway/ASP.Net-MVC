@@ -1,0 +1,6 @@
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter08\Covariance\Covariance\bin\Debug\Covariance.exe.config
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter08\Covariance\Covariance\bin\Debug\Covariance.exe
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter08\Covariance\Covariance\bin\Debug\Covariance.pdb
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter08\Covariance\Covariance\obj\Debug\Covariance.exe
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter08\Covariance\Covariance\obj\Debug\Covariance.pdb
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter08\Covariance\Covariance\obj\Debug\Covariance.csprojResolveAssemblyReference.cache

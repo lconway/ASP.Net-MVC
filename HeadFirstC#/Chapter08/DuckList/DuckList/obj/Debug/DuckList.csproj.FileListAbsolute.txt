@@ -1,0 +1,6 @@
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter08\DuckList\DuckList\bin\Debug\DuckList.exe.config
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter08\DuckList\DuckList\bin\Debug\DuckList.exe
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter08\DuckList\DuckList\bin\Debug\DuckList.pdb
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter08\DuckList\DuckList\obj\Debug\DuckList.csprojResolveAssemblyReference.cache
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter08\DuckList\DuckList\obj\Debug\DuckList.exe
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter08\DuckList\DuckList\obj\Debug\DuckList.pdb

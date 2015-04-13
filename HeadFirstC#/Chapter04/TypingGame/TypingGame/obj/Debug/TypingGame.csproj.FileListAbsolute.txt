@@ -1,0 +1,9 @@
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter04\TypingGame\TypingGame\bin\Debug\TypingGame.exe.config
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter04\TypingGame\TypingGame\bin\Debug\TypingGame.exe
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter04\TypingGame\TypingGame\bin\Debug\TypingGame.pdb
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter04\TypingGame\TypingGame\obj\Debug\TypingGame.csprojResolveAssemblyReference.cache
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter04\TypingGame\TypingGame\obj\Debug\TypingGame.Form1.resources
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter04\TypingGame\TypingGame\obj\Debug\TypingGame.Properties.Resources.resources
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter04\TypingGame\TypingGame\obj\Debug\TypingGame.csproj.GenerateResource.Cache
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter04\TypingGame\TypingGame\obj\Debug\TypingGame.exe
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter04\TypingGame\TypingGame\obj\Debug\TypingGame.pdb

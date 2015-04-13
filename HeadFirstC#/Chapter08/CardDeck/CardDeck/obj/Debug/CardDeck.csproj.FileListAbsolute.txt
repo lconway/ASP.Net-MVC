@@ -1,0 +1,9 @@
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter08\CardDeck\CardDeck\bin\Debug\CardDeck.exe.config
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter08\CardDeck\CardDeck\bin\Debug\CardDeck.exe
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter08\CardDeck\CardDeck\bin\Debug\CardDeck.pdb
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter08\CardDeck\CardDeck\obj\Debug\CardDeck.csprojResolveAssemblyReference.cache
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter08\CardDeck\CardDeck\obj\Debug\CardDeck.Form1.resources
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter08\CardDeck\CardDeck\obj\Debug\CardDeck.Properties.Resources.resources
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter08\CardDeck\CardDeck\obj\Debug\CardDeck.csproj.GenerateResource.Cache
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter08\CardDeck\CardDeck\obj\Debug\CardDeck.exe
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter08\CardDeck\CardDeck\obj\Debug\CardDeck.pdb

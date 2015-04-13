@@ -1,0 +1,9 @@
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter03\MileageCalculator\MileageCalculator\bin\Debug\MileageCalculator.exe.config
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter03\MileageCalculator\MileageCalculator\bin\Debug\MileageCalculator.exe
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter03\MileageCalculator\MileageCalculator\bin\Debug\MileageCalculator.pdb
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter03\MileageCalculator\MileageCalculator\obj\Debug\MileageCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter03\MileageCalculator\MileageCalculator\obj\Debug\MileageCalculator.Form1.resources
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter03\MileageCalculator\MileageCalculator\obj\Debug\MileageCalculator.Properties.Resources.resources
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter03\MileageCalculator\MileageCalculator\obj\Debug\MileageCalculator.csproj.GenerateResource.Cache
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter03\MileageCalculator\MileageCalculator\obj\Debug\MileageCalculator.exe
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter03\MileageCalculator\MileageCalculator\obj\Debug\MileageCalculator.pdb

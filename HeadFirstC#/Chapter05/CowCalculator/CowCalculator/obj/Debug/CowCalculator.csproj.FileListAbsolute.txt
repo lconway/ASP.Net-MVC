@@ -1,0 +1,9 @@
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter05\CowCalculator\CowCalculator\bin\Debug\CowCalculator.exe.config
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter05\CowCalculator\CowCalculator\bin\Debug\CowCalculator.exe
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter05\CowCalculator\CowCalculator\bin\Debug\CowCalculator.pdb
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter05\CowCalculator\CowCalculator\obj\Debug\CowCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter05\CowCalculator\CowCalculator\obj\Debug\CowCalculator.Form1.resources
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter05\CowCalculator\CowCalculator\obj\Debug\CowCalculator.Properties.Resources.resources
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter05\CowCalculator\CowCalculator\obj\Debug\CowCalculator.csproj.GenerateResource.Cache
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter05\CowCalculator\CowCalculator\obj\Debug\CowCalculator.exe
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter05\CowCalculator\CowCalculator\obj\Debug\CowCalculator.pdb

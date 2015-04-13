@@ -1,0 +1,1 @@
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter10\SloppyJoes\SloppyJoes\SloppyJoes.csproj;neutral

@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>LYNN-DEV</Machine>
+    <WindowsUser>Lynn</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>F4E968A9BEA8D4CBBB53E8FDA2FF566B09558DF582E5D3A9526F077C3EB50334</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>f394cfa5-54ee-4ae5-be86-bc352caad91e_1.0.0.0_neutral__nma48kn4f82kc</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>f394cfa5-54ee-4ae5-be86-bc352caad91e_nma48kn4f82kc!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>f394cfa5-54ee-4ae5-be86-bc352caad91e</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Lynn</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter01\SaveTheHumans\SaveTheHumans\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-11-08T20:02:22.076</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter01\SaveTheHumans\SaveTheHumans\bin\Debug\SaveTheHumans.exe">
+      <PackagePath>SaveTheHumans.exe</PackagePath>
+      <Modified>2014-11-09T18:02:46.641</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter01\SaveTheHumans\SaveTheHumans\bin\Debug\SaveTheHumans.pdb">
+      <PackagePath>SaveTheHumans.pdb</PackagePath>
+      <Modified>2014-11-09T18:02:46.597</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter01\SaveTheHumans\SaveTheHumans\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-11-09T17:55:26.480</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter01\SaveTheHumans\SaveTheHumans\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-11-09T17:55:29.497</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter01\SaveTheHumans\SaveTheHumans\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-11-09T17:55:33.194</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter01\SaveTheHumans\SaveTheHumans\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T03:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter01\SaveTheHumans\SaveTheHumans\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+      <Modified>2014-11-08T19:59:02.302</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter01\SaveTheHumans\SaveTheHumans\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2014-11-08T19:51:28.430</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter01\SaveTheHumans\SaveTheHumans\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-26T23:19:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter01\SaveTheHumans\SaveTheHumans\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2014-11-09T18:02:19.631</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter01\SaveTheHumans\SaveTheHumans\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-11-08T20:02:21.904</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

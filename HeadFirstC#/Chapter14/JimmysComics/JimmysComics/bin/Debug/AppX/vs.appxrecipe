@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>LYNN-DEV</Machine>
+    <WindowsUser>Lynn</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>F7CCDAC32ACD57517D0932F6F61E772CCF9699D5A18F666C42648A053E161160</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>4cfc1656-edf9-4c45-9e08-1af06dcc107e_1.0.0.0_neutral__nma48kn4f82kc</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>4cfc1656-edf9-4c45-9e08-1af06dcc107e_nma48kn4f82kc!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>4cfc1656-edf9-4c45-9e08-1af06dcc107e</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Lynn</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter14\JimmysComics\JimmysComics\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-02-04T22:27:35.920</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter14\JimmysComics\JimmysComics\bin\Debug\JimmysComics.exe">
+      <PackagePath>JimmysComics.exe</PackagePath>
+      <Modified>2015-02-06T22:59:19.952</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter14\JimmysComics\JimmysComics\bin\Debug\JimmysComics.pdb">
+      <PackagePath>JimmysComics.pdb</PackagePath>
+      <Modified>2015-02-06T22:59:19.901</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter14\JimmysComics\JimmysComics\Assets\bluegray_250x250.jpg">
+      <PackagePath>Assets\bluegray_250x250.jpg</PackagePath>
+      <Modified>2015-02-04T20:28:03.818</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter14\JimmysComics\JimmysComics\Assets\captain_amazing_250x250.jpg">
+      <PackagePath>Assets\captain_amazing_250x250.jpg</PackagePath>
+      <Modified>2015-02-04T20:29:25.936</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter14\JimmysComics\JimmysComics\Assets\captain_amazing_zoom_250x250.jpg">
+      <PackagePath>Assets\captain_amazing_zoom_250x250.jpg</PackagePath>
+      <Modified>2015-02-04T20:29:32.982</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter14\JimmysComics\JimmysComics\Assets\purple_250x250.jpg">
+      <PackagePath>Assets\purple_250x250.jpg</PackagePath>
+      <Modified>2015-02-04T20:29:46.412</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter14\JimmysComics\JimmysComics\Assets\Captain Amazing Issue 19 cover.png">
+      <PackagePath>Assets\Captain Amazing Issue 19 cover.png</PackagePath>
+      <Modified>2015-02-04T20:28:21.915</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter14\JimmysComics\JimmysComics\Assets\Captain Amazing Issue 36 cover.png">
+      <PackagePath>Assets\Captain Amazing Issue 36 cover.png</PackagePath>
+      <Modified>2015-02-04T20:28:44.899</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter14\JimmysComics\JimmysComics\Assets\Captain Amazing Issue 57 cover.png">
+      <PackagePath>Assets\Captain Amazing Issue 57 cover.png</PackagePath>
+      <Modified>2015-02-04T20:28:53.277</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter14\JimmysComics\JimmysComics\Assets\Captain Amazing Issue 6 cover.png">
+      <PackagePath>Assets\Captain Amazing Issue 6 cover.png</PackagePath>
+      <Modified>2015-02-04T20:28:59.687</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter14\JimmysComics\JimmysComics\Assets\Captain Amazing Issue 68 cover.png">
+      <PackagePath>Assets\Captain Amazing Issue 68 cover.png</PackagePath>
+      <Modified>2015-02-04T20:35:01.040</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter14\JimmysComics\JimmysComics\Assets\Captain Amazing Issue 74 cover.png">
+      <PackagePath>Assets\Captain Amazing Issue 74 cover.png</PackagePath>
+      <Modified>2015-02-04T20:29:08.881</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter14\JimmysComics\JimmysComics\Assets\Captain Amazing Issue 83 cover.png">
+      <PackagePath>Assets\Captain Amazing Issue 83 cover.png</PackagePath>
+      <Modified>2015-02-04T20:29:14.713</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter14\JimmysComics\JimmysComics\Assets\Captain Amazing Issue 97 cover.png">
+      <PackagePath>Assets\Captain Amazing Issue 97 cover.png</PackagePath>
+      <Modified>2015-02-04T20:29:20.857</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter14\JimmysComics\JimmysComics\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-02-04T20:29:38.283</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter14\JimmysComics\JimmysComics\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-02-04T20:29:50.331</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter14\JimmysComics\JimmysComics\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-02-04T20:29:54.934</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter14\JimmysComics\JimmysComics\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-02-04T20:29:58.789</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter14\JimmysComics\JimmysComics\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+      <Modified>2015-02-04T20:05:29.599</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter14\JimmysComics\JimmysComics\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2015-02-04T20:04:35.915</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter14\JimmysComics\JimmysComics\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-26T23:19:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter14\JimmysComics\JimmysComics\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2015-02-04T22:07:43.639</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter14\JimmysComics\JimmysComics\bin\Debug\QueryDetail.xaml">
+      <PackagePath>QueryDetail.xaml</PackagePath>
+      <Modified>2015-02-04T22:18:04.561</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter14\JimmysComics\JimmysComics\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-02-04T22:27:35.796</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

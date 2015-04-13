@@ -1,0 +1,9 @@
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Lab2\TheQuest\TheQuest\bin\Debug\TheQuest.exe.config
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Lab2\TheQuest\TheQuest\obj\Debug\TheQuest.csprojResolveAssemblyReference.cache
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Lab2\TheQuest\TheQuest\obj\Debug\TheQuest.Form1.resources
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Lab2\TheQuest\TheQuest\obj\Debug\TheQuest.Properties.Resources.resources
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Lab2\TheQuest\TheQuest\obj\Debug\TheQuest.csproj.GenerateResource.Cache
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Lab2\TheQuest\TheQuest\bin\Debug\TheQuest.exe
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Lab2\TheQuest\TheQuest\bin\Debug\TheQuest.pdb
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Lab2\TheQuest\TheQuest\obj\Debug\TheQuest.exe
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Lab2\TheQuest\TheQuest\obj\Debug\TheQuest.pdb

@@ -1,0 +1,9 @@
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter05\BeeHiveManagement2\BeeHiveManagement2\bin\Debug\BeeHiveManagement2.exe.config
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter05\BeeHiveManagement2\BeeHiveManagement2\bin\Debug\BeeHiveManagement2.exe
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter05\BeeHiveManagement2\BeeHiveManagement2\bin\Debug\BeeHiveManagement2.pdb
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter05\BeeHiveManagement2\BeeHiveManagement2\obj\Debug\BeeHiveManagement2.csprojResolveAssemblyReference.cache
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter05\BeeHiveManagement2\BeeHiveManagement2\obj\Debug\BeeHiveManagement2.Form1.resources
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter05\BeeHiveManagement2\BeeHiveManagement2\obj\Debug\BeeHiveManagement2.Properties.Resources.resources
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter05\BeeHiveManagement2\BeeHiveManagement2\obj\Debug\BeeHiveManagement2.csproj.GenerateResource.Cache
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter05\BeeHiveManagement2\BeeHiveManagement2\obj\Debug\BeeHiveManagement2.exe
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter05\BeeHiveManagement2\BeeHiveManagement2\obj\Debug\BeeHiveManagement2.pdb

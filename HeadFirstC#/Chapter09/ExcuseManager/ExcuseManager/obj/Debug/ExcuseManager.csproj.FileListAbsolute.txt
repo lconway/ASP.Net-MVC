@@ -1,0 +1,9 @@
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter09\ExcuseManager\ExcuseManager\bin\Debug\ExcuseManager.exe.config
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter09\ExcuseManager\ExcuseManager\bin\Debug\ExcuseManager.exe
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter09\ExcuseManager\ExcuseManager\bin\Debug\ExcuseManager.pdb
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter09\ExcuseManager\ExcuseManager\obj\Debug\ExcuseManager.csprojResolveAssemblyReference.cache
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter09\ExcuseManager\ExcuseManager\obj\Debug\ExcuseManager.Form1.resources
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter09\ExcuseManager\ExcuseManager\obj\Debug\ExcuseManager.Properties.Resources.resources
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter09\ExcuseManager\ExcuseManager\obj\Debug\ExcuseManager.csproj.GenerateResource.Cache
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter09\ExcuseManager\ExcuseManager\obj\Debug\ExcuseManager.exe
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter09\ExcuseManager\ExcuseManager\obj\Debug\ExcuseManager.pdb

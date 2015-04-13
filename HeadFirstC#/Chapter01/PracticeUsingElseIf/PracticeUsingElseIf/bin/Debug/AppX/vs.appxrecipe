@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>LYNN-DEV</Machine>
+    <WindowsUser>Lynn</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>BACE3A22712BAB7704C7FDDBA0231A06B0C21C2DC09E6A42B29416699D2DF75B</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>8e67e8dc-edcf-4998-9afa-12b97177016d_1.0.0.0_neutral__nma48kn4f82kc</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>8e67e8dc-edcf-4998-9afa-12b97177016d_nma48kn4f82kc!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>8e67e8dc-edcf-4998-9afa-12b97177016d</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Lynn</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter01\PracticeUsingElseIf\PracticeUsingElseIf\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-09-16T19:18:26.682</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter01\PracticeUsingElseIf\PracticeUsingElseIf\bin\Debug\PracticeUsingElseIf.exe">
+      <PackagePath>PracticeUsingElseIf.exe</PackagePath>
+      <Modified>2014-09-16T19:18:26.327</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter01\PracticeUsingElseIf\PracticeUsingElseIf\bin\Debug\PracticeUsingElseIf.pdb">
+      <PackagePath>PracticeUsingElseIf.pdb</PackagePath>
+      <Modified>2014-09-16T19:18:26.272</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter01\PracticeUsingElseIf\PracticeUsingElseIf\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T03:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter01\PracticeUsingElseIf\PracticeUsingElseIf\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T03:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter01\PracticeUsingElseIf\PracticeUsingElseIf\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T03:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter01\PracticeUsingElseIf\PracticeUsingElseIf\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T03:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter01\PracticeUsingElseIf\PracticeUsingElseIf\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2014-09-16T18:55:29.593</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter01\PracticeUsingElseIf\PracticeUsingElseIf\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-26T23:19:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter01\PracticeUsingElseIf\PracticeUsingElseIf\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2014-09-16T19:18:24.001</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter01\PracticeUsingElseIf\PracticeUsingElseIf\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-09-16T19:18:26.494</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

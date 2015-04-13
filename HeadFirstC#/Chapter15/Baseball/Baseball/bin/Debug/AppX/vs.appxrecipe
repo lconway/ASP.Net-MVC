@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>LYNN-DEV</Machine>
+    <WindowsUser>Lynn</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>8737E66AB0304E9DBF364677DA89B159D7E6F2F6A1645AF0BEE516D548B2F007</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>f5b9db1a-8745-45cf-8609-de43d1d1161d_1.0.0.0_neutral__nma48kn4f82kc</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>f5b9db1a-8745-45cf-8609-de43d1d1161d_nma48kn4f82kc!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>f5b9db1a-8745-45cf-8609-de43d1d1161d</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Lynn</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter15\Baseball\Baseball\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-02-01T22:32:55.349</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter15\Baseball\Baseball\bin\Debug\Baseball.exe">
+      <PackagePath>Baseball.exe</PackagePath>
+      <Modified>2015-02-01T22:32:55.052</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter15\Baseball\Baseball\bin\Debug\Baseball.pdb">
+      <PackagePath>Baseball.pdb</PackagePath>
+      <Modified>2015-02-01T22:32:55.005</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter15\Baseball\Baseball\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T03:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter15\Baseball\Baseball\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T03:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter15\Baseball\Baseball\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T03:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter15\Baseball\Baseball\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T03:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter15\Baseball\Baseball\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+      <Modified>2015-01-23T01:48:37.862</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter15\Baseball\Baseball\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2015-01-23T01:10:09.449</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter15\Baseball\Baseball\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-26T23:19:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter15\Baseball\Baseball\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2015-01-30T02:05:05.061</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter15\Baseball\Baseball\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-01-23T01:50:35.511</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

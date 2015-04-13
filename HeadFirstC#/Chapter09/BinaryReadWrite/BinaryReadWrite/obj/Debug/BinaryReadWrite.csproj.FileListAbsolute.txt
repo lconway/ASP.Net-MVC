@@ -1,0 +1,6 @@
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter09\BinaryReadWrite\BinaryReadWrite\bin\Debug\BinaryReadWrite.exe.config
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter09\BinaryReadWrite\BinaryReadWrite\bin\Debug\BinaryReadWrite.exe
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter09\BinaryReadWrite\BinaryReadWrite\bin\Debug\BinaryReadWrite.pdb
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter09\BinaryReadWrite\BinaryReadWrite\obj\Debug\BinaryReadWrite.csprojResolveAssemblyReference.cache
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter09\BinaryReadWrite\BinaryReadWrite\obj\Debug\BinaryReadWrite.exe
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter09\BinaryReadWrite\BinaryReadWrite\obj\Debug\BinaryReadWrite.pdb

@@ -1,0 +1,6 @@
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter08\SortCards\SortCards\bin\Debug\SortCards.exe.config
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter08\SortCards\SortCards\bin\Debug\SortCards.exe
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter08\SortCards\SortCards\bin\Debug\SortCards.pdb
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter08\SortCards\SortCards\obj\Debug\SortCards.csprojResolveAssemblyReference.cache
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter08\SortCards\SortCards\obj\Debug\SortCards.exe
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter08\SortCards\SortCards\obj\Debug\SortCards.pdb

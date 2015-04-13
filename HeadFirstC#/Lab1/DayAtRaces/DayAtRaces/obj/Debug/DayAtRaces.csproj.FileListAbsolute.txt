@@ -1,0 +1,9 @@
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Lab1\DayAtRaces\DayAtRaces\bin\Debug\DayAtRaces.exe.config
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Lab1\DayAtRaces\DayAtRaces\bin\Debug\DayAtRaces.exe
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Lab1\DayAtRaces\DayAtRaces\bin\Debug\DayAtRaces.pdb
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Lab1\DayAtRaces\DayAtRaces\obj\Debug\DayAtRaces.csprojResolveAssemblyReference.cache
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Lab1\DayAtRaces\DayAtRaces\obj\Debug\DayAtRaces.Form1.resources
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Lab1\DayAtRaces\DayAtRaces\obj\Debug\DayAtRaces.Properties.Resources.resources
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Lab1\DayAtRaces\DayAtRaces\obj\Debug\DayAtRaces.csproj.GenerateResource.Cache
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Lab1\DayAtRaces\DayAtRaces\obj\Debug\DayAtRaces.exe
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Lab1\DayAtRaces\DayAtRaces\obj\Debug\DayAtRaces.pdb

@@ -1,0 +1,9 @@
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter09\OpenSaveFiles\OpenSaveFiles\bin\Debug\OpenSaveFiles.exe.config
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter09\OpenSaveFiles\OpenSaveFiles\bin\Debug\OpenSaveFiles.exe
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter09\OpenSaveFiles\OpenSaveFiles\bin\Debug\OpenSaveFiles.pdb
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter09\OpenSaveFiles\OpenSaveFiles\obj\Debug\OpenSaveFiles.csprojResolveAssemblyReference.cache
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter09\OpenSaveFiles\OpenSaveFiles\obj\Debug\OpenSaveFiles.Form1.resources
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter09\OpenSaveFiles\OpenSaveFiles\obj\Debug\OpenSaveFiles.Properties.Resources.resources
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter09\OpenSaveFiles\OpenSaveFiles\obj\Debug\OpenSaveFiles.csproj.GenerateResource.Cache
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter09\OpenSaveFiles\OpenSaveFiles\obj\Debug\OpenSaveFiles.exe
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter09\OpenSaveFiles\OpenSaveFiles\obj\Debug\OpenSaveFiles.pdb

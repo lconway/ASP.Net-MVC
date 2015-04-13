@@ -1,0 +1,9 @@
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter05\PartyPlanner2\PartyPlanner2\bin\Debug\PartyPlanner2.exe.config
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter05\PartyPlanner2\PartyPlanner2\obj\Debug\PartyPlanner2.csprojResolveAssemblyReference.cache
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter05\PartyPlanner2\PartyPlanner2\obj\Debug\PartyPlanner2.Form1.resources
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter05\PartyPlanner2\PartyPlanner2\obj\Debug\PartyPlanner2.Properties.Resources.resources
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter05\PartyPlanner2\PartyPlanner2\obj\Debug\PartyPlanner2.csproj.GenerateResource.Cache
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter05\PartyPlanner2\PartyPlanner2\bin\Debug\PartyPlanner2.exe
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter05\PartyPlanner2\PartyPlanner2\bin\Debug\PartyPlanner2.pdb
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter05\PartyPlanner2\PartyPlanner2\obj\Debug\PartyPlanner2.exe
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter05\PartyPlanner2\PartyPlanner2\obj\Debug\PartyPlanner2.pdb

@@ -1,0 +1,9 @@
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter08\GoFish\GoFish\bin\Debug\GoFish.exe.config
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter08\GoFish\GoFish\bin\Debug\GoFish.exe
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter08\GoFish\GoFish\bin\Debug\GoFish.pdb
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter08\GoFish\GoFish\obj\Debug\GoFish.csprojResolveAssemblyReference.cache
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter08\GoFish\GoFish\obj\Debug\GoFish.Form1.resources
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter08\GoFish\GoFish\obj\Debug\GoFish.Properties.Resources.resources
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter08\GoFish\GoFish\obj\Debug\GoFish.csproj.GenerateResource.Cache
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter08\GoFish\GoFish\obj\Debug\GoFish.exe
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter08\GoFish\GoFish\obj\Debug\GoFish.pdb

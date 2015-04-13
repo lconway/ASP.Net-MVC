@@ -1,0 +1,9 @@
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter05\PartyEstimator\PartyEstimator\bin\Debug\PartyEstimator.exe.config
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter05\PartyEstimator\PartyEstimator\bin\Debug\PartyEstimator.exe
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter05\PartyEstimator\PartyEstimator\bin\Debug\PartyEstimator.pdb
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter05\PartyEstimator\PartyEstimator\obj\Debug\PartyEstimator.csprojResolveAssemblyReference.cache
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter05\PartyEstimator\PartyEstimator\obj\Debug\PartyEstimator.Form1.resources
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter05\PartyEstimator\PartyEstimator\obj\Debug\PartyEstimator.Properties.Resources.resources
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter05\PartyEstimator\PartyEstimator\obj\Debug\PartyEstimator.csproj.GenerateResource.Cache
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter05\PartyEstimator\PartyEstimator\obj\Debug\PartyEstimator.exe
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter05\PartyEstimator\PartyEstimator\obj\Debug\PartyEstimator.pdb

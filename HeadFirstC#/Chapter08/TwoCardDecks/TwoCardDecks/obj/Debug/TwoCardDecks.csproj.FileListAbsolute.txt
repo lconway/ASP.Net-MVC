@@ -1,0 +1,9 @@
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter08\TwoCardDecks\TwoCardDecks\bin\Debug\TwoCardDecks.exe.config
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter08\TwoCardDecks\TwoCardDecks\obj\Debug\TwoCardDecks.csprojResolveAssemblyReference.cache
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter08\TwoCardDecks\TwoCardDecks\obj\Debug\TwoCardDecks.Form1.resources
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter08\TwoCardDecks\TwoCardDecks\obj\Debug\TwoCardDecks.Properties.Resources.resources
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter08\TwoCardDecks\TwoCardDecks\obj\Debug\TwoCardDecks.csproj.GenerateResource.Cache
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter08\TwoCardDecks\TwoCardDecks\bin\Debug\TwoCardDecks.exe
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter08\TwoCardDecks\TwoCardDecks\bin\Debug\TwoCardDecks.pdb
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter08\TwoCardDecks\TwoCardDecks\obj\Debug\TwoCardDecks.exe
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter08\TwoCardDecks\TwoCardDecks\obj\Debug\TwoCardDecks.pdb

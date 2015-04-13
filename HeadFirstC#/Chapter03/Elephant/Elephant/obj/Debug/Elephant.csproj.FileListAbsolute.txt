@@ -1,0 +1,9 @@
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter03\Elephant\Elephant\bin\Debug\Elephant.exe.config
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter03\Elephant\Elephant\bin\Debug\Elephant.exe
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter03\Elephant\Elephant\bin\Debug\Elephant.pdb
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter03\Elephant\Elephant\obj\Debug\Elephant.csprojResolveAssemblyReference.cache
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter03\Elephant\Elephant\obj\Debug\Elephant.Form1.resources
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter03\Elephant\Elephant\obj\Debug\Elephant.Properties.Resources.resources
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter03\Elephant\Elephant\obj\Debug\Elephant.csproj.GenerateResource.Cache
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter03\Elephant\Elephant\obj\Debug\Elephant.exe
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter03\Elephant\Elephant\obj\Debug\Elephant.pdb

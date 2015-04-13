@@ -1,0 +1,9 @@
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter08\Flapjacks\Flapjacks\bin\Debug\Flapjacks.exe.config
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter08\Flapjacks\Flapjacks\bin\Debug\Flapjacks.exe
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter08\Flapjacks\Flapjacks\bin\Debug\Flapjacks.pdb
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter08\Flapjacks\Flapjacks\obj\Debug\Flapjacks.csprojResolveAssemblyReference.cache
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter08\Flapjacks\Flapjacks\obj\Debug\Flapjacks.Form1.resources
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter08\Flapjacks\Flapjacks\obj\Debug\Flapjacks.Properties.Resources.resources
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter08\Flapjacks\Flapjacks\obj\Debug\Flapjacks.csproj.GenerateResource.Cache
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter08\Flapjacks\Flapjacks\obj\Debug\Flapjacks.exe
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter08\Flapjacks\Flapjacks\obj\Debug\Flapjacks.pdb

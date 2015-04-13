@@ -1,0 +1,5 @@
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter09\Serialize2Cards\Serialize2Cards\bin\Debug\Serialize2Cards.exe.config
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter09\Serialize2Cards\Serialize2Cards\bin\Debug\Serialize2Cards.exe
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter09\Serialize2Cards\Serialize2Cards\bin\Debug\Serialize2Cards.pdb
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter09\Serialize2Cards\Serialize2Cards\obj\Debug\Serialize2Cards.exe
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter09\Serialize2Cards\Serialize2Cards\obj\Debug\Serialize2Cards.pdb

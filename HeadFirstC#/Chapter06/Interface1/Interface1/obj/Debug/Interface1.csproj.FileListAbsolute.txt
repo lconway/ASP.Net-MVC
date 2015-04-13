@@ -1,0 +1,5 @@
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter06\Interface1\Interface1\bin\Debug\Interface1.exe.config
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter06\Interface1\Interface1\bin\Debug\Interface1.exe
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter06\Interface1\Interface1\bin\Debug\Interface1.pdb
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter06\Interface1\Interface1\obj\Debug\Interface1.exe
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\HeadFirstC#\Chapter06\Interface1\Interface1\obj\Debug\Interface1.pdb
