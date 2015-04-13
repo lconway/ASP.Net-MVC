@@ -1,0 +1,1 @@
+C:\Users\Lynn\Documents\Visual Studio 2012\Projects\ASP.Net MVC\DbFirstMovie\DbFirstMovie\bin\Debug\DbFirstMovie.exe.config

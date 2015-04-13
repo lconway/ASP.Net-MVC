@@ -1,0 +1,44 @@
+﻿@model MvcAuction.Models.Auction
+
+@{
+    var auction = Model;
+}
+
+@*
+<a href="@Url.Action("Login", "Action")">Login</a>
+*@
+
+@Html.ActionLink("Login", "Login", "Account")
+
+<div class ="auction">
+    <h3>@auction.Title</h3>
+
+    <div class="details">
+        <p>Start Time: @auction.StartTime.ToString("g")</p>
+        <p>End Time: @auction.EndTime.ToString("g")</p>
+        <p>Starting Price: @auction.StartPrice.ToString("C")</p>
+
+        @*
+          Since CurrentPrice is nullable we have to check to
+          see iff it has a value before we call .ToString()!
+        *@
+        <p>Current Price:
+            @if(auction.CurentPrice == null)
+            {
+                @: [No bids]
+            }
+            else
+            {
+                <span>@auction.CurentPrice.Value.ToString("C")</span>
+            }
+        </p>
+    </div>
+
+    @if (auction.ImageUrl != null) {
+        <img src="@auction.ImageUrl" title="@auction.Title" />
+    }
+
+    <div class="description">
+        @auction.Description
+    </div>
+</div>

@@ -1,0 +1,59 @@
+﻿@{
+    ViewBag.Title = "List";
+}
+<script type="text/javascript">
+    $(document).ready(function () {
+        $("#dp").datepicker();
+        $("#myTable").DataTable();
+    });
+</script>
+
+<h2>Listings</h2>
+
+<p>Date:
+    <input type="text" id="dp" name="dp" />
+</p>
+
+<div id="div4">
+
+        <table id="myTable" class="display">
+            <thead>
+                <tr>
+                    <th>First Name</th>
+                    <th>Last Name</th>
+                    <th>City</th>
+                    <th>State</th>
+                </tr>
+            </thead>
+
+            <tbody>
+                <tr>
+                    <td>Lynn</td>
+                    <td>Conway</td>
+                    <td>Bend</td>
+                    <td>Or</td>
+                </tr>
+                <tr>
+                    <td>Danna</td>
+                    <td>Freeman</td>
+                    <td>Portland</td>
+                    <td>Or</td>
+                </tr>
+                <tr>
+                    <td>Brad</td>
+                    <td>Conway</td>
+                    <td>New York</td>
+                    <td>NY</td>
+                </tr>
+                <tr>
+                    <td>Cindy</td>
+                    <td>Miller</td>
+                    <td>Seattle</td>
+                    <td>Wa</td>
+                </tr>
+            </tbody>
+        </table>
+        <br />
+        End of forth div
+
+</div>
